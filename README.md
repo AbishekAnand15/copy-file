@@ -29,10 +29,7 @@ with open("git.txt","r") as f1:
             f2.write(line)
 ```
 ### OUTPUT:
-![Output](fil.png)![Output](otu.png)
-![Output](git.png)
-
-
+![Output](OUTRUN.png)
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
