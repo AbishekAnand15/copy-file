@@ -23,7 +23,7 @@ step 7:Print the output.
 ```python
 Developed by: Abishek Xavier A
 Registered number: 22008833
-with open("git.txt","r") as f1:
+with open("text2.txt","r") as f1:
     with open("MyFile.txt","a") as f2:
         for line in f1:
             f2.write(line)
